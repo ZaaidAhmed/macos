@@ -1,4 +1,4 @@
-apiVersion: v1
+apiVersion: v1 aaa
 kind: PersistentVolumeClaim
 metadata:
   name: macos-pvc
